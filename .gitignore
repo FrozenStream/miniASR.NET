@@ -1,0 +1,7 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+.vscode/
+Config.cs
